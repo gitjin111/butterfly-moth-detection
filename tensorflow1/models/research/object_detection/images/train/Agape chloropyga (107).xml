@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Agape chloropyga-312张</folder>
+	<filename>Agape chloropyga (107).jpg</filename>
+	<path>C:\machine\蛾子\Agape chloropyga-312张\Agape chloropyga (107).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>536</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Agape chloropyga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>33</ymin>
+			<xmax>462</xmax>
+			<ymax>978</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>moth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>31</ymin>
+			<xmax>460</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Alucitidae-840张</folder>
+	<filename>Alucitidae (266).jpg</filename>
+	<path>C:\machine\蛾子\Alucitidae-840张\Alucitidae (266).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>74</ymin>
+			<xmax>453</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Alucitidae</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>72</ymin>
+			<xmax>451</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

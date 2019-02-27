@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Argyreus hyperbius-1300张</folder>
+	<filename>Argyreus hyperbius (342).jpg</filename>
+	<path>C:\machine\蝴蝶\Argyreus hyperbius-1300张\Argyreus hyperbius (342).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>17</ymin>
+			<xmax>424</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Argyreus hyperbius</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>15</ymin>
+			<xmax>422</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>
